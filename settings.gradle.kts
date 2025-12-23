@@ -20,3 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "OpenCV-Android"
+include(":opencv")
