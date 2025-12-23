@@ -198,8 +198,11 @@ publishing {
     }
     repositories {
         maven {
-            name = 'myrepo'
-            url = "${project.buildDir}/repo"
+            name = 's3-repo'
+            url = "s3://cornis-maps-dev/android/OpenCV-Android/maven-repository"
+            authentication {
+                awsIm(AwsImAuthentication)
+            }
         }
     }
 }
