@@ -1,6 +1,6 @@
 # Opencv Android
 
-![Release](https://jitpack.io/v/Cornis-SAS/OpenCV-Android.svg)
+[![Release](https://jitpack.io/v/Cornis-SAS/OpenCV-Android.svg)](https://jitpack.io/#Cornis-SAS/OpenCV-Android)
 
 Ce repo contient le code d'OpenCV pour Android. Le seul but de ce repo est de permettre de publier OpenCV en tant que librairie, qui peut être importée dans n'importe quel autre projet Android.  
 La librairie est publiée sur Jitpack : https://jitpack.io/#Cornis-SAS/OpenCV-Android.
