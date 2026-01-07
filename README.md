@@ -1,7 +1,10 @@
 # Opencv Android
 
 Ce repo contient le code d'OpenCV pour Android. Le seul but de ce repo est de permettre de publier OpenCV en tant que librairie, qui peut être importée dans n'importe quel autre projet Android.  
-La librairie est publié sur S3, sur `s3://cornis-maps-dev`. **Il faut donc y avoir accès pour pouvoir publier**.
+La librairie est publiée sur Jitpack : https://jitpack.io/#Cornis-SAS/OpenCV-Android.
+
+> [!IMPORTANT]
+> Cette librairie est publique, n'y mettez rien de secret.
 
 ## Que fait ce repo ?
 
